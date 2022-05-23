@@ -1,0 +1,14 @@
+export 'package:flutter_club_client/screens/menu/scanner_menu.dart';
+export 'package:flutter_club_client/screens/categories/categories.dart';
+export 'package:flutter_club_client/screens/products/products.dart';
+export 'package:flutter_club_client/screens/products/detaills.dart';
+export 'package:flutter_club_client/screens/tables/add_to_table.dart';
+export 'package:flutter_club_client/screens/orders/ordersByClient.dart';
+export 'package:flutter_club_client/screens/livraison/home_screen.dart';
+export 'package:flutter_club_client/screens/livraison/intro_screen.dart';
+export 'package:flutter_club_client/screens/livraison/home_caffe.dart';
+export 'package:flutter_club_client/screens/orders/order.dart';
+export 'package:flutter_club_client/screens/addition/addition.dart';
+export 'package:flutter_club_client/screens/compte/splah_screen.dart';
+export 'package:flutter_club_client/screens/livraison/categories_livraison.dart';
+export 'package:flutter_club_client/screens/menu/bienvenue.dart';
